@@ -1,0 +1,1 @@
+test file used to test the path.join method. method allows us to join folders and files together creating a path that leads to a particular file or folder
